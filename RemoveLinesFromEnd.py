@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.0
+#!/usr/bin/env python3
 
 # Removes a number of lines from a file in-place, and without
 # writing another copy of the whole file (like sed does).
